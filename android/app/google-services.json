@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "27051500084",
+    "project_id": "ifood-delivery-f7a6f",
+    "storage_bucket": "ifood-delivery-f7a6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27051500084:android:dcdc6c0c97c218c44de061",
+        "android_client_info": {
+          "package_name": "com.example.ifood_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27051500084-81mjtd8rq973d544hi1tq78kh515gbit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ifood_delivery",
+            "certificate_hash": "7df8ae54b1d54fa18d4dfa27ed0494f361eb72ac"
+          }
+        },
+        {
+          "client_id": "27051500084-udglpo5qthbqo5fh3htv2t5koh56trd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIJV74yTF5Q8oBn279KL_SQz3ytZPS0rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27051500084-udglpo5qthbqo5fh3htv2t5koh56trd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
